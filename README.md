@@ -6,7 +6,7 @@ This is a very simple app created in Flutter, displaying the business informatio
 - Image
 - Name
 - Job title
-- Phone numebr
+- Phone number
 - Email
 
-The information is styled to look professional and can handle tilting your phone and scrolling.
+The information is styled to look professional and can handle tilting your phone and scrolling down.
