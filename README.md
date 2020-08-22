@@ -1,8 +1,8 @@
 # Business Card
-This is based on the London Brewery "Mi Card" App.
+This is based on the London Brewery "Mi Card" App. You can find their GitHub here: https://github.com/londonappbrewery
 
 ## Content
-This is a very simple app created in FLutter, displaying the business information of a person:
+This is a very simple app created in Flutter, displaying the business information of a person:
 - Image
 - Name
 - Job title
